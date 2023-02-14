@@ -1,3 +1,3 @@
 ## Credits
 
-- Website - [https://httpbin.org/#/HTTP_Methods](https://httpbin.org/#/HTTP_Methods)
+- Website - [https://github.com/psf/requests](https://github.com/psf/requests)
